@@ -1,6 +1,6 @@
 """
     File    : street.py
-    Author  : Eshrath Subhani
+    Author  : Kannuru Krishna Veni
     Purpose : This program creates a visualization of a city street by 
               allowing the user to input a one-line specification of various
               street elements, including buildings, parks, and empty lots. 
